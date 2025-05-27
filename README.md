@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**platacole/platacole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 17-year-old computer science student with a strong passion for tech and creativity.  
+💻 I enjoy coding, graphic design, photography, and videography.  
+🛠️ Always looking to improve and learn new tools to bring ideas to life.
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Web Development
+- Motion design and video editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m working on:
+- Graphics and media content for online projects  
+- Personal portfolio projects (mini web apps, designs, videos)
+
+💬 Ask me about:
+- Creative direction and branding  
+- Photo/video editing and visual storytelling  
+- Front-end development basics
+   
