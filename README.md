@@ -1,6 +1,5 @@
-**Aspiring Creative Developer & Multimedia Artist | IT Student at ITIS E. Majorana | Passionate about Web Dev, Visual Design, and Digital Storytelling**
-
-## Hi there 👋
+## **Aspiring Creative Developer & Multimedia Artist | IT Student at ITIS E. Majorana | Passionate about Web Dev, Visual Design, and Digital Storytelling**
+Hi there 👋
 
 🎓 I'm a 17-year-old computer science student with a strong passion for tech and creativity.
 💻 I enjoy coding, graphic design, photography, and videography.
